@@ -30,6 +30,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 This code is now all specialized for the A0 and its ESP32 WRover-B which has 4MB flash and
 8MB of PSRAM. It also only has a single CAN port.
 */
+
+#include <Arduino.h>
+
 #include "config.h"
 #include <esp32_can.h>
 #include <SPI.h>
