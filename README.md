@@ -1,4 +1,4 @@
-A0RET
+A0RET - Simplified Version for ESP32 Dev Board and CAN Bus Transceiver
 =======
 
 Reverse Engineering Tool running on ESP32 based hardware. Originally meant for Macchina A0 but also
